@@ -84,7 +84,7 @@ function tienePropiedad (objeto, propiedad) {
   if(objeto[propiedad]) {
     return true;
   } else {
-      return false;
+    return false;
 }
 }
 
